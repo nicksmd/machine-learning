@@ -12,3 +12,9 @@ print("hello world")
 
 `print("meo"`
 ## Hihi
+
+|Stt | Name | Age |
+|:---|:-----|:----|
+|1   |Nick  | 21  |
+|2   |Hei   | 22  |
+|====|======|=====|
