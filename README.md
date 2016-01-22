@@ -18,3 +18,7 @@ print("hello world")
 |1   |Nick  | 21  |
 |2   |Hei   | 22  |
 |====|======|=====|
+
+
+*in nghiêng*
+**in đậm **
