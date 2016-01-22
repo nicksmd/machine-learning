@@ -10,7 +10,7 @@ http://example.com
 print("hello world")
 ~~~
 
-`print("meo"`
+`print("meo")`
 ## Hihi
 
 |Stt | Name | Age |
@@ -22,6 +22,6 @@ print("hello world")
 
 *in nghiêng*
 
-**in đậm **
+__in đậm__
 
 ![Nick](https://scontent-hkg3-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/10647028_626338644150432_9002367343595030724_n.jpg?oh=f049b92bfa9d988b0e03bc6850d8a12c&oe=57400EDD)
